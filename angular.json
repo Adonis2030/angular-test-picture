@@ -3,14 +3,11 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "angular-test-picture": {
+    "tripscout": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
           "style": "scss"
-        },
-        "@schematics/angular:application": {
-          "strict": true
         }
       },
       "root": "",
@@ -20,7 +17,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/angular-test-picture",
+            "outputPath": "dist/tripscout",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -72,10 +69,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "angular-test-picture:build:production"
+              "browserTarget": "tripscout:build:production"
             },
             "development": {
-              "browserTarget": "angular-test-picture:build:development"
+              "browserTarget": "tripscout:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -83,7 +80,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "angular-test-picture:build"
+            "browserTarget": "tripscout:build"
           }
         },
         "test": {
@@ -108,6 +105,6 @@
     }
   },
   "cli": {
-    "analytics": "649114bf-f66c-471e-bf19-30a81069abaa"
+    "analytics": false
   }
 }

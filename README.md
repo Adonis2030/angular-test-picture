@@ -1,27 +1,64 @@
-# AngularTestPicture
+# Tourist Information Interface
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
+## Overview
 
-## Development server
+This project is an implementation of an information interface for tourists, providing details about planned destinations. It includes features such as language switching, search functionality, and infinite scrolling. The project aims to demonstrate coding skills, usage of lightweight frameworks, and best practices.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Features
 
-## Code scaffolding
+- **Two Languages Content**: Supports English and another language (e.g., Croatian). Language can be switched by the user.
+- **Tourist Information Feed**: Displays a list of tourist destinations with location, descriptions, pictures, ratings, etc.
+- **Fake API Response**: Data is fetched from a simulated API response, prepared for real synchronous or asynchronous API communication.
+- **Search Functionality**: Users can search through the list based on location names.
+- **Infinite Scroll**: The feed supports infinite scrolling to load more content dynamically.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Getting Started
 
-## Build
+### Prerequisites
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- Node.js and npm installed
+- Angular CLI installed globally
 
-## Running unit tests
+### Installation
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Clone the repository:
 
-## Running end-to-end tests
+```sh
+git clone https://github.com/your-username/tourist-info-interface.git
+cd tourist-info-interface
+```
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+#### Install dependencies:
 
-## Further help
+```sh
+npm install
+```
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Running the Application
+
+- Start the development server:
+
+```sh
+ng serve
+```
+
+- Open your browser and navigate to http://localhost:4200.
+
+### Usage
+
+- Language Switching: Use the buttons in the header to switch between languages.
+- Search: Use the search box to filter destinations by location.
+- Infinite Scroll: Scroll down to load more destinations dynamically.
+
+### Future Improvements
+
+- Implement responsive design for mobile and tablet views.
+- Add real API integration for fetching tourist data.
+- Enhance search functionality with more filters (e.g., ratings, favorites).
+- Add user authentication and personalized user features.
+
+### Development Decisions
+
+- Chose Angular for its robust framework and familiarity.
+- Used @ngx-translate/core for language translation due to its simplicity and ease of integration.
+- Simulated API response to focus on UI/UX and functionality within the given timeframe.

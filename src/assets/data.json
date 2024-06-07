@@ -1,0 +1,244 @@
+{
+  "tourists": [
+    {
+      "name": "Eiffel Tower",
+      "location": "Paris, France",
+      "description": "An iconic symbol of France, offering stunning views of Paris from its observation decks.",
+      "rating": 5,
+      "picture": "/assets/images/Eiffel Tower.jpg",
+      "favorite": true
+    },
+    {
+      "name": "Great Wall of China",
+      "location": "China",
+      "description": "A UNESCO World Heritage site, this ancient wall stretches over 13,000 miles and offers breathtaking views and historical significance.",
+      "rating": 5,
+      "picture": "/assets/images/Great Wall of China.jpg",
+      "favorite": true
+    },
+    {
+      "name": "Machu Picchu",
+      "location": "Peru",
+      "description": "An ancient Incan city set high in the Andes Mountains, known for its archaeological significance and stunning scenery.",
+      "rating": 4,
+      "picture": "/assets/images/Machu Picchu.jpg",
+      "favorite": false
+    },
+    {
+      "name": "Colosseum",
+      "location": "Rome, Italy",
+      "description": "An ancient amphitheater in the heart of Rome, known for its history and architectural grandeur.",
+      "rating": 3,
+      "picture": "/assets/images/Colosseum Rome.jpg",
+      "favorite": true
+    },
+    {
+      "name": "Statue of Liberty",
+      "location": "New York City, USA",
+      "description": "A symbol of freedom and democracy, this colossal statue is located on Liberty Island in New York Harbor.",
+      "rating": 5,
+      "picture": "/assets/images/Statue of Liberty.jpg",
+      "favorite": false
+    },
+    {
+      "name": "Taj Mahal",
+      "location": "Agra, India",
+      "description": "A stunning white marble mausoleum, built by Emperor Shah Jahan in memory of his wife Mumtaz Mahal.",
+      "rating": 3,
+      "picture": "/assets/images/Taj Mahal.jpg",
+      "favorite": true
+    },
+    {
+      "name": "Santorini",
+      "location": "Greece",
+      "description": "Known for its beautiful sunsets, white-washed buildings, and blue-domed churches, Santorini is a top Mediterranean destination.",
+      "rating": 5,
+      "picture": "/assets/images/Santorini.jpg",
+      "favorite": true
+    },
+    {
+      "name": "Sydney Opera House",
+      "location": "Sydney, Australia",
+      "description": "An architectural masterpiece and a UNESCO World Heritage site, known for its unique design and cultural performances.",
+      "rating": 5,
+      "picture": "/assets/images/Sydney Opera House.jpg",
+      "favorite": true
+    },
+    {
+      "name": "Christ the Redeemer",
+      "location": "Rio de Janeiro, Brazil",
+      "description": "A massive statue of Jesus Christ that overlooks the city of Rio de Janeiro, offering panoramic views.",
+      "rating": 3,
+      "picture": "/assets/images/Christ the Redeemer.jpg",
+      "favorite": false
+    },
+    {
+      "name": "Petra",
+      "location": "Jordan",
+      "description": "An ancient city carved into red sandstone cliffs, known for its archaeological and historical significance.",
+      "rating": 4,
+      "picture": "/assets/images/Petra.jpg",
+      "favorite": false
+    },
+    {
+      "name": "Eiffel Tower",
+      "location": "Paris, France",
+      "description": "An iconic symbol of France, offering stunning views of Paris from its observation decks.",
+      "rating": 5,
+      "picture": "/assets/images/Eiffel Tower.jpg",
+      "favorite": true
+    },
+    {
+      "name": "Great Wall of China",
+      "location": "China",
+      "description": "A UNESCO World Heritage site, this ancient wall stretches over 13,000 miles and offers breathtaking views and historical significance.",
+      "rating": 5,
+      "picture": "/assets/images/Great Wall of China.jpg",
+      "favorite": true
+    },
+    {
+      "name": "Machu Picchu",
+      "location": "Peru",
+      "description": "An ancient Incan city set high in the Andes Mountains, known for its archaeological significance and stunning scenery.",
+      "rating": 4,
+      "picture": "/assets/images/Machu Picchu.jpg",
+      "favorite": false
+    },
+    {
+      "name": "Colosseum",
+      "location": "Rome, Italy",
+      "description": "An ancient amphitheater in the heart of Rome, known for its history and architectural grandeur.",
+      "rating": 3,
+      "picture": "/assets/images/Colosseum Rome.jpg",
+      "favorite": true
+    },
+    {
+      "name": "Statue of Liberty",
+      "location": "New York City, USA",
+      "description": "A symbol of freedom and democracy, this colossal statue is located on Liberty Island in New York Harbor.",
+      "rating": 5,
+      "picture": "/assets/images/Statue of Liberty.jpg",
+      "favorite": false
+    },
+    {
+      "name": "Taj Mahal",
+      "location": "Agra, India",
+      "description": "A stunning white marble mausoleum, built by Emperor Shah Jahan in memory of his wife Mumtaz Mahal.",
+      "rating": 3,
+      "picture": "/assets/images/Taj Mahal.jpg",
+      "favorite": true
+    },
+    {
+      "name": "Santorini",
+      "location": "Greece",
+      "description": "Known for its beautiful sunsets, white-washed buildings, and blue-domed churches, Santorini is a top Mediterranean destination.",
+      "rating": 5,
+      "picture": "/assets/images/Santorini.jpg",
+      "favorite": true
+    },
+    {
+      "name": "Sydney Opera House",
+      "location": "Sydney, Australia",
+      "description": "An architectural masterpiece and a UNESCO World Heritage site, known for its unique design and cultural performances.",
+      "rating": 5,
+      "picture": "/assets/images/Sydney Opera House.jpg",
+      "favorite": true
+    },
+    {
+      "name": "Christ the Redeemer",
+      "location": "Rio de Janeiro, Brazil",
+      "description": "A massive statue of Jesus Christ that overlooks the city of Rio de Janeiro, offering panoramic views.",
+      "rating": 3,
+      "picture": "/assets/images/Christ the Redeemer.jpg",
+      "favorite": false
+    },
+    {
+      "name": "Petra",
+      "location": "Jordan",
+      "description": "An ancient city carved into red sandstone cliffs, known for its archaeological and historical significance.",
+      "rating": 4,
+      "picture": "/assets/images/Petra.jpg",
+      "favorite": false
+    },
+    {
+      "name": "Eiffel Tower",
+      "location": "Paris, France",
+      "description": "An iconic symbol of France, offering stunning views of Paris from its observation decks.",
+      "rating": 5,
+      "picture": "/assets/images/Eiffel Tower.jpg",
+      "favorite": true
+    },
+    {
+      "name": "Great Wall of China",
+      "location": "China",
+      "description": "A UNESCO World Heritage site, this ancient wall stretches over 13,000 miles and offers breathtaking views and historical significance.",
+      "rating": 5,
+      "picture": "/assets/images/Great Wall of China.jpg",
+      "favorite": true
+    },
+    {
+      "name": "Machu Picchu",
+      "location": "Peru",
+      "description": "An ancient Incan city set high in the Andes Mountains, known for its archaeological significance and stunning scenery.",
+      "rating": 4,
+      "picture": "/assets/images/Machu Picchu.jpg",
+      "favorite": false
+    },
+    {
+      "name": "Colosseum",
+      "location": "Rome, Italy",
+      "description": "An ancient amphitheater in the heart of Rome, known for its history and architectural grandeur.",
+      "rating": 3,
+      "picture": "/assets/images/Colosseum Rome.jpg",
+      "favorite": true
+    },
+    {
+      "name": "Statue of Liberty",
+      "location": "New York City, USA",
+      "description": "A symbol of freedom and democracy, this colossal statue is located on Liberty Island in New York Harbor.",
+      "rating": 5,
+      "picture": "/assets/images/Statue of Liberty.jpg",
+      "favorite": false
+    },
+    {
+      "name": "Taj Mahal",
+      "location": "Agra, India",
+      "description": "A stunning white marble mausoleum, built by Emperor Shah Jahan in memory of his wife Mumtaz Mahal.",
+      "rating": 3,
+      "picture": "/assets/images/Taj Mahal.jpg",
+      "favorite": true
+    },
+    {
+      "name": "Santorini",
+      "location": "Greece",
+      "description": "Known for its beautiful sunsets, white-washed buildings, and blue-domed churches, Santorini is a top Mediterranean destination.",
+      "rating": 5,
+      "picture": "/assets/images/Santorini.jpg",
+      "favorite": true
+    },
+    {
+      "name": "Sydney Opera House",
+      "location": "Sydney, Australia",
+      "description": "An architectural masterpiece and a UNESCO World Heritage site, known for its unique design and cultural performances.",
+      "rating": 5,
+      "picture": "/assets/images/Sydney Opera House.jpg",
+      "favorite": true
+    },
+    {
+      "name": "Christ the Redeemer",
+      "location": "Rio de Janeiro, Brazil",
+      "description": "A massive statue of Jesus Christ that overlooks the city of Rio de Janeiro, offering panoramic views.",
+      "rating": 3,
+      "picture": "/assets/images/Christ the Redeemer.jpg",
+      "favorite": false
+    },
+    {
+      "name": "Petra",
+      "location": "Jordan",
+      "description": "An ancient city carved into red sandstone cliffs, known for its archaeological and historical significance.",
+      "rating": 4,
+      "picture": "/assets/images/Petra.jpg",
+      "favorite": false
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+<nav class="navbar navbar-expand-lg fixed-top">
+  <div class="container">
+    <a class="navbar-brand" href="#">{{ "TOURIST_TITLE" | translate }}</a>
+    <div class="collapse navbar-collapse d-flex justify-content-between">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item active">
+          <a class="nav-link" href="#">{{ "TOURIST_HOME" | translate }}</a>
+        </li>
+      </ul>
+    </div>
+    <div class="d-flex gap-3">
+      <button
+        class="trans-btn trans-en"
+        (click)="switchLanguage('en')"
+        [ngClass]="{ 'trans-btn-active': isActive('en') }"
+      ></button>
+      <button
+        class="trans-btn trans-hu"
+        (click)="switchLanguage('hu')"
+        [ngClass]="{ 'trans-btn-active': isActive('hu') }"
+      ></button>
+    </div>
+  </div>
+</nav>
