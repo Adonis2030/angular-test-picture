@@ -6,9 +6,8 @@ This project is an implementation of an information interface for tourists, prov
 
 ## Features
 
-- **Two Languages Content**: Supports English and another language (e.g., Croatian). Language can be switched by the user.
+- **Two Languages Content**: Supports English and another language (e.g., Hungarian). Language can be switched by the user.
 - **Tourist Information Feed**: Displays a list of tourist destinations with location, descriptions, pictures, ratings, etc.
-- **Fake API Response**: Data is fetched from a simulated API response, prepared for real synchronous or asynchronous API communication.
 - **Search Functionality**: Users can search through the list based on location names.
 - **Infinite Scroll**: The feed supports infinite scrolling to load more content dynamically.
 
@@ -24,8 +23,8 @@ This project is an implementation of an information interface for tourists, prov
 Clone the repository:
 
 ```sh
-git clone https://github.com/your-username/tourist-info-interface.git
-cd tourist-info-interface
+git clone https://github.com/Adonis2030/angular-test-picture.git
+cd angular-test-picture
 ```
 
 #### Install dependencies:
@@ -54,7 +53,7 @@ ng serve
 
 - Implement responsive design for mobile and tablet views.
 - Add real API integration for fetching tourist data.
-- Enhance search functionality with more filters (e.g., ratings, favorites).
+- Enhance search functionality with more filters (e.g., ratings).
 - Add user authentication and personalized user features.
 
 ### Development Decisions
